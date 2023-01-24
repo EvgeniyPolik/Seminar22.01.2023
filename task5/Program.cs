@@ -6,4 +6,4 @@ if (n == 0)
 else
     for (int i = 1; i <= n; i++)
         prod *= i;
-    Console.WriteLine($"Произведение всех чисел до числа {n} равна: {prod}");   
+Console.WriteLine($"Произведение всех чисел до числа {n} равна: {prod}");   
